@@ -1,0 +1,34 @@
+{
+  "name": "hjs-jsonpull",
+  "version": "1.0.0",
+  "description": "JSON pull lib for Hubrisjs framework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/hjs-jsonpull.git"
+  },
+  "keywords": [
+    "JsonStream",
+    "JsonBuffer",
+    "JsonPullParser",
+    "TreeChangeListener",
+    "JsonTreeNavigator",
+    "JsonTree"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/hjs-jsonpull/issues"
+  },
+  "homepage": "https://github.com/ornorm/hjs-jsonpull#readme",
+  "dependencies": {
+    "hjs-core": "^1.0.0",
+    "hjs-io": "^1.0.0"
+  }
+}
